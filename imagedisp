@@ -1,0 +1,4 @@
+from IPython.display import Image, display
+
+display(Image(base_image_path))
+display(Image(style_reference_image_path))
